@@ -10,7 +10,7 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Test;
 
-public class loginPageTest {
+public class PracticeTest {
 
     WebDriver driver;
     public static final String BASE_URL = "https://opensource-demo.orangehrmlive.com/index.php/auth/login";
